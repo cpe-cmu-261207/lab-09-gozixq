@@ -39,7 +39,7 @@ export default function Home() {
             <span class="para1">Natsinee Sasanasopa</span> <br />
             <span class="para1">Gigi</span> <br />
             <span class="para1">
-              72/7 Sripangnga road Meungkrani Krabi 
+              72/7 Sripangnga Meungkrani 81000
             </span>
             <br />
             <span>

@@ -8,7 +8,7 @@ export default function Home() {
       <div>
         <section class="home" id="home">
           <div class="home-text">
-            <h1>Ntsinee Sasanasopa</h1>
+            <h1>Natsinee Sasanasopa</h1>
             <h2>
               I am currently enrolled in the Faculty of
               Engineering Computer Engineering at Chiang Mai University.
@@ -51,7 +51,7 @@ export default function Home() {
         </div>
 
         <div class="card" style={{ width: "18rem" }}>
-          <img src="image/mkp.png" class="card-img-top m-auto" />
+          <img src="image/Mae.jpg" class="card-img-top m-auto" />
           <div class="card-body m-2">
             <span class="badge rounded-pill text-bg-primary">Travel</span>
             <p class="card-text">
